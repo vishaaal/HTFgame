@@ -1,12 +1,3 @@
-/* 
- * Utils
- * Martin's senile little utility belt library for being an #omyac
- * Please do not build life support systems with it.
- * (c) 2014 Q42
- * http://q42.com | @q42
- * Written by Martin Kool
- * martin@q42.nl | @mrtnkl
- */
 function Utility() {
   var def = {
   isDoubleTapBug: function(evt) {

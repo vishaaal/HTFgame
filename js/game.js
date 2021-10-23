@@ -1,11 +1,3 @@
-/* 
- * Game
- * The main 0h h1 game, a singleton object in global scope.
- * (c) 2014 Q42
- * http://q42.com | @q42
- * Written by Martin Kool
- * martin@q42.nl | @mrtnkl
- */
 var Game = new (function() {
   var self = this,
       debug = Config.debug,
@@ -570,7 +562,7 @@ var Game = new (function() {
   }
 
   function updateTweetUrl(size) {
-    var msg = '#0hh1 I just completed a ' + size + ' x ' + size + ' puzzle and my score is ' + getScore() + '.',
+    var msg = '#HTFgame I just completed a ' + size + ' x ' + size + ' puzzle and my score is ' + getScore() + '.',
         url = 'https://twitter.com/share?text=' + encodeURIComponent(msg);
     $('#tweeturl').attr('href', url);
   }
