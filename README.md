@@ -11,7 +11,7 @@ The concept has been taken from *Takuzu* or *Binairo*.
 
 ![image-20211023152019271](https://i.postimg.cc/7hWk3kqT/Screenshot-2021-10-23-152420.png)
 
-#### Instructions:
+#### Instructions:📜 
 
 Go to the following site:
 https://vishaaal.github.io/HTFgame/
