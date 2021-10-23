@@ -1,4 +1,4 @@
-# HTFGame
+# HTFGame🎮
 
 ### A logical game made by *Codemonks* for [HackThisFall](https://hackthisfall.tech)
 The concept has been taken from *Takuzu* or *Binairo*.
