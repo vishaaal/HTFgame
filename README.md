@@ -15,6 +15,7 @@ The concept has been taken from *Takuzu* or *Binairo*.
 
 Go to the following site:
 https://vishaaal.github.io/HTFgame/
+(*if the link is not working download the project and open index.html*)
 
 
 Happy Hacking🎉
